@@ -1,3 +1,21 @@
+# Copyright 2022 The HuggingFace Inc. team and Shivam Shrirao. All rights reserved.
+#
+# Adapted from the DreamBooth training example in ShivamShrirao/diffusers
+# (https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth),
+# a fork of huggingface/diffusers (https://github.com/huggingface/diffusers).
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
 import argparse
 import hashlib
 import itertools

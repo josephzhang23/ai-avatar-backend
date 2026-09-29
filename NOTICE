@@ -1,0 +1,11 @@
+This repository is licensed under the MIT License (see LICENSE), except for
+the following files, which are third-party code licensed under the
+Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0):
+
+- train_dreambooth.py
+  Adapted from ShivamShrirao/diffusers (examples/dreambooth),
+  a fork of huggingface/diffusers. Copyright 2022 The HuggingFace Inc. team
+  and Shivam Shrirao.
+
+- convert_diffusers_to_original_stable_diffusion.py
+  From huggingface/diffusers (scripts/). Copyright 2022 The HuggingFace Inc. team.
